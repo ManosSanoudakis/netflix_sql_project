@@ -4,7 +4,7 @@
 
 # Project Overview 
 
-This project focuses on performing an in-depth exploration of Netflix’s catalog of movies and TV shows using SQL. By working with a Kaggle-sourced dataset, the analysis aims to uncover meaningful patterns, trends, and insights about Netflix’s global content library. The project demonstrates how SQL can be used to answer real-world business questions—such as identifying content distribution across genres, release years, countries, ratings, and more.
+This project focuses on performing an in-depth exploration of Netflix’s catalog of movies and TV shows using SQL. By working with a Kaggle-sourced dataset, the analysis aims to uncover meaningful patterns, trends, and insights about Netflix’s global content library. The project demonstrates how SQL can be used to answer real-world business questions such as identifying content distribution across genres, release years, countries, ratings, and more.
 
 # Objective 
 
