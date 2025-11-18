@@ -17,4 +17,4 @@ This project focuses on performing an in-depth exploration of Netflix’s catalo
 
 The data for this project is sourced from the kaggle dataset:
 
--**Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
