@@ -8,10 +8,10 @@ This project focuses on performing an in-depth exploration of Netflix’s catalo
 
 # Objective 
 
--Examine the breakdown of content types by comparing the number of movies to TV shows within the dataset, providing a clearer view of Netflix’s overall catalog composition.
--Determine the most frequently assigned ratings for both movies and TV shows to understand how Netflix’s content is typically classified for different audiences.
--Investigate patterns across release years, countries of production, and content duration, highlighting historical trends, regional representation, and variations in episode or movie length.
--Identify and group titles based on targeted filters, criteria, and keyword searches, enabling deeper insight into themes, genres, or specific content categories.
+- Examine the breakdown of content types by comparing the number of movies to TV shows within the dataset, providing a clearer view of Netflix’s overall catalog composition.
+- Determine the most frequently assigned ratings for both movies and TV shows to understand how Netflix’s content is typically classified for different audiences.
+- Investigate patterns across release years, countries of production, and content duration, highlighting historical trends, regional representation, and variations in episode or movie length.
+- Identify and group titles based on targeted filters, criteria, and keyword searches, enabling deeper insight into themes, genres, or specific content categories.
 
 # Dataset
 
